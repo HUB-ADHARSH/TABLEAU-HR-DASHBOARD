@@ -2,7 +2,12 @@
 ---
 # 📊 HR Analytics Dashboard  
 
-This repository contains an **interactive Tableau dashboard** that delivers meaningful insights into HR data for smarter decision-making.  
+## 📌 About  
+
+This **Tableau HR Dashboard** provides key insights into **Employee Demographics**, **Attrition**, and **Performance**.  
+It enables HR teams to analyze **Workforce Trends** with interactive visualizations.  
+The dashboard supports **Data-Driven Decision-Making** for effective HR management.  
+
 ---
 ## 🚀 Features  
 - 👥 **Employee Demographics** – Workforce distribution by age, gender, and department.  
